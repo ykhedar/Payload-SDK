@@ -31,6 +31,7 @@
 #include "dji_liveview.h"
 #include <map>
 #include "dji_camera_stream_decoder.hpp"
+#include <stdexcept>
 
 #ifdef __cplusplus
 extern "C" {
